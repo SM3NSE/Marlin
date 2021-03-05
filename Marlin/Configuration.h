@@ -1227,7 +1227,7 @@
 
 // The size of the print bed
 #define X_BED_SIZE 173
-#define Y_BED_SIZE 200
+#define Y_BED_SIZE 190
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
