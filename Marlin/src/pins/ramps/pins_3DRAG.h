@@ -41,7 +41,7 @@
 // Heaters / Fans
 //
 #define RAMPS_D8_PIN                           9
-#define RAMPS_D9_PIN                           8
+#define RAMPS_D9_PIN                           8  // FAN_PIN in pins_RAMPS.h G-code M106 default fan.
 #define MOSFET_D_PIN                          12
 
 #ifndef CASE_LIGHT_PIN

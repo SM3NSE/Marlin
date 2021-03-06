@@ -238,7 +238,7 @@
   #elif ENABLED(IS_RAMPS_EEB)                     // Hotend, Hotend, Bed
     #define FAN_PIN                            4  // IO pin. Buffer needed
   #else                                           // Non-specific are "EFB" (i.e., "EFBF" or "EFBE")
-    #define FAN_PIN                 RAMPS_D9_PIN
+    #define FAN_PIN                 RAMPS_D9_PIN  // Fläktjäveln??
   #endif
 #endif
 
